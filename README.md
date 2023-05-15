@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aravind_saravu" target="blank"><img src="https://img.shields.io/twitter/follow/aravind_saravu?logo=twitter&style=for-the-badge" alt="aravind_saravu" /></a> </p>
 
-- 🌱 I’m currently learning **LLM's,Advanced Artificial Intelligence & Deep Learning**
+- 🌱 I’m currently learning **LLM's, Advanced Artificial Intelligence & Deep Learning**
 
 - 📫 How to reach me **aravind.saravu@gmail.com**
 
