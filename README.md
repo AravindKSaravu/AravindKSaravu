@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **LLM's, Advanced Artificial Intelligence & Deep Learning**
 
-- 📫 How to reach me **aravind.saravu@gmail.com**
+- 📫 How to reach me **aravindkrishna.saravu@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1byuh-wGlsYFzJiIwA0sB852vmXT2555-/view?usp=sharing](https://drive.google.com/file/d/1byuh-wGlsYFzJiIwA0sB852vmXT2555-/view?usp=sharing)
 
